@@ -7,3 +7,7 @@ fieldset{
 fieldset legend{
     color: red;
 }
+
+#datos-personales legend{
+    color:blue;
+}
