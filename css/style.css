@@ -2,12 +2,16 @@ fieldset{
     background-color: #ccc;
     color: beige;
     font-size: 12px;
+    padding: 10px;
 }
 
 fieldset legend{
     color: red;
+    font-size: 14px;
+    
 }
 
 #datos-personales legend{
     color:blue;
 }
+
