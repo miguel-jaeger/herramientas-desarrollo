@@ -3,3 +3,7 @@ fieldset{
     color: beige;
     font-size: 12px;
 }
+
+fieldset legend{
+    color: red;
+}
